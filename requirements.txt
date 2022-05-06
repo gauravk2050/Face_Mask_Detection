@@ -1,0 +1,10 @@
+tensorflow
+keras
+imutils
+opencv-python
+matplotlib
+argparse
+scipy
+scikit-learn
+pillow
+streamlit
